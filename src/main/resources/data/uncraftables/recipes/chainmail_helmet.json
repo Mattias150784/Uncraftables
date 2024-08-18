@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "minecraft:chain"
+    }
+  },
+    "pattern": [
+      "   ",
+      "III",
+      "I I"
+    ],
+  "result": {
+    "item": "minecraft:chainmail_helmet",
+    "count": 1
+  }
+
+}

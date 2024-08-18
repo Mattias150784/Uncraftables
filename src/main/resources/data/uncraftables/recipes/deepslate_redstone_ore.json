@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "minecraft:deepslate"
+    },
+    "L": {
+      "item": "minecraft:redstone"
+    }
+  },
+    "pattern": [
+      "III",
+      "ILI",
+      "III"
+    ],
+  "result": {
+    "item": "minecraft:deepslate_redstone_ore",
+    "count": 1
+  }
+
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "minecraft:stone"
+    },
+    "L": {
+      "item": "minecraft:copper_ingot"
+    }
+  },
+    "pattern": [
+      "III",
+      "ILI",
+      "III"
+    ],
+  "result": {
+    "item": "minecraft:copper_ore",
+    "count": 1
+  }
+}

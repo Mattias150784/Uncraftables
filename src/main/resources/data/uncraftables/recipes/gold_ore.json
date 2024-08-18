@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "minecraft:stone"
+    },
+    "L": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+    "pattern": [
+      "III",
+      "ILI",
+      "III"
+    ],
+  "result": {
+    "item": "minecraft:gold_ore",
+    "count": 1
+  }
+}
