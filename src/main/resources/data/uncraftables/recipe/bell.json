@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "minecraft:gold_ingot"
+    },
+    "L": {
+      "item": "minecraft:lever"
+    }
+  },
+    "pattern": [
+      "III",
+      "ILI",
+      "I I"
+    ],
+    "result": {
+      "count": 1,
+      "id": "minecraft:bell"
+    }
+
+}

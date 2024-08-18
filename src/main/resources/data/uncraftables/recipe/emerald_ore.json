@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "minecraft:stone"
+    },
+    "L": {
+      "item": "minecraft:emerald"
+    }
+  },
+    "pattern": [
+      "III",
+      "ILI",
+      "III"
+    ],
+    "result": {
+      "count": 1,
+      "id": "minecraft:emerald_ore"
+    }
+
+}

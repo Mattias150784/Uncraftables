@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "minecraft:deepslate"
+    },
+    "L": {
+      "item": "minecraft:emerald"
+    }
+  },
+    "pattern": [
+      "III",
+      "ILI",
+      "III"
+    ],
+    "result": {
+      "count": 1,
+      "id": "minecraft:deepslate_emerald_ore"
+    }
+
+}

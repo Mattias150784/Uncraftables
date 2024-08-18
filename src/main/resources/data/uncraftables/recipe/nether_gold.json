@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "minecraft:netherrack"
+    },
+    "L": {
+      "item": "minecraft:gold_nugget"
+    }
+  },
+    "pattern": [
+      "III",
+      "ILI",
+      "III"
+    ],
+    "result": {
+      "count": 1,
+      "id": "minecraft:nether_gold_ore"
+    }
+
+}
